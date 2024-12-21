@@ -53,6 +53,10 @@ Contributions are welcome! If you have suggestions or improvements, feel free to
 
 ## Acknowledgments
 - CAS for providing the MAS-I syllabus and exam structure.
-- Open-source French motor liability dataset contributors.
+- Open-source French motor liability dataset contributors - https://github.com/dutangc/CASdatasets/tree/master
 - Dobson & Barnette - An Introduction to Generalized Linear Models
-- James et al. - Introduction to Statistical Learning with Python 
+- James et al. - Introduction to Statistical Learning with Python
+- Sai Kartheek. C, SSSIHL - Application of Generalized Linear Models in Predicting Claim Frequency
+- Swiss Association of Actuaries. (2020). Case Study: French Motor Third-Party
+Liability Claims. SSRN, 41. Retrieved February, 2024, from
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3164764
