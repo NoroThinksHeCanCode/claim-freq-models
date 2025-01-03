@@ -1,6 +1,6 @@
 # Claim Frequency Modeling: GLMs and GAMs
 
-This repository contains a Jupyter Notebook project focused on modeling claim frequency data using Generalized Linear Models (GLMs) and Generalized Additive Models (GAMs). The analysis leverages open-source French third-party motor liability data and is designed to reinforce concepts from the CAS MAS-I exam.
+This repository contains a Jupyter Notebook (a humble attempt at a) project focused on modeling claim frequency data using Generalized Linear Models (GLMs) and Generalized Additive Models (GAMs). The analysis leverages open-source French third-party motor liability data and is designed to reinforce concepts from the CAS MAS-I exam.
 
 ## Project Overview
 
@@ -16,16 +16,16 @@ This repository contains a Jupyter Notebook project focused on modeling claim fr
 ### Key Methods:
 - **Generalized Linear Models (GLMs)**: A foundational statistical approach for claim frequency modeling.
 - **Generalized Additive Models (GAMs)**: An extension of GLMs that introduces flexibility with smooth functions for predictors.
-- **Metrics Used**: AIC, BIC and Poisson Deviance for GLMs
+- **Metrics Used**: Poisson Deviance and test MSE
 
 ## Repository Structure
 
 - `notebooks/`
-  - Contains the main Jupyter Notebook with all analyses and visualizations.
+  - Contains the main Jupyter Notebooks with all analyses and visualizations.
 - `data.zip`
   - Raw and processed datasets (ensure compliance with dataset usage terms).
 - `summary`
-  - Outputs and model descriptions.
+  - Data descriptions, outputs and model descriptions.
 - `README.md`
   - This file.
 
