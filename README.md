@@ -22,10 +22,10 @@ This repository contains a Jupyter Notebook project focused on modeling claim fr
 
 - `notebooks/`
   - Contains the main Jupyter Notebook with all analyses and visualizations.
-- `data/`
+- `data.zip`
   - Raw and processed datasets (ensure compliance with dataset usage terms).
-- `results/`
-  - Outputs, including visualizations and model performance summaries.
+- `summary`
+  - Outputs and model descriptions.
 - `README.md`
   - This file.
 
@@ -37,7 +37,7 @@ This repository contains a Jupyter Notebook project focused on modeling claim fr
 
 
 ### Usage:
-Run the Jupyter Notebook to:
+Run the Jupyter Notebooks to:
 - Preprocess the dataset.
 - Fit GLMs and GAMs to claim frequency data.
 - Visualize and interpret model outputs.
@@ -58,5 +58,4 @@ Contributions are welcome! If you have suggestions or improvements, feel free to
 - James et al. - Introduction to Statistical Learning with Python
 - Sai Kartheek. C, SSSIHL - Application of Generalized Linear Models in Predicting Claim Frequency
 - Swiss Association of Actuaries. (2020). Case Study: French Motor Third-Party
-Liability Claims. SSRN, 41. Retrieved February, 2024, from
-https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3164764
+Liability Claims. SSRN, 41. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3164764
